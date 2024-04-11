@@ -11,7 +11,7 @@ planning_pipelines:
   pipeline_names: ["ompl"]
 
 # Default
-ur_manipulator:
+aprs_ur:
   plan_request_params:
     planning_attempts: 1
     planning_pipeline: ompl
